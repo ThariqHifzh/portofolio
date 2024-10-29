@@ -28,7 +28,7 @@
 
 <body>
     <section class="hero-section" id="section_1">
-        <div style=" background-image: url('image/m.jpg'); background-size: cover;">
+        <div style=" background-image: url('image/ke6.png'); background-size: cover;">
             <div class=" section-overlay">
             </div>
 
@@ -69,7 +69,7 @@
     </section>
 
     <section class="hero-section" id="section_2">
-        <div style=" background-image: url('image/ke2.jpg'); background-size: cover; ">
+        <div style=" background-image: url('image/ke7.png'); background-size: cover; ">
             <div class=" section-overlay">
             </div>
 
@@ -82,7 +82,150 @@
                                 style="background: linear-gradient(to right, white, blue); -webkit-background-clip: text; color: transparent;""> About Me</h1>
                             <p class=" text-white" style="margin-bottom: 10px;">_______________</p>
                                 <div class="card bg-transparent"
-                                    style="width: auto; border: 1px solid white; backdrop-filter: blur(1px); border-radius: 20px; box-shadow: 0 0 15px 1px blueviolet; margin-top: 90px;">
+                                    style="width: auto; border: 1px solid white; backdrop-filter: blur(2px); border-radius: 20px; box-shadow: 0 0 15px 1px blueviolet; margin-top: 90px;">
+                                    <div class="card-body text-white">
+
+                                        <p class="card-text">My name is Ahmad Tariq Hifzhillah, I'm a web developer and
+                                            designer Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugit
+                                            perspiciatis sequi possimus totam voluptatibus reiciendis ipsum explicabo
+                                            doloribus ex rerum iusto voluptates iste recusandae perferendis incidunt,
+                                            vel,
+                                            molestias, sit nam.</p>
+                                        <p>_______________________</p>
+                                        <div class="row">
+                                            <div class="col-sm-11 d-flex justify-content-between">
+                                                <ul class=""
+                                                    style="list-style-type: none; padding: 0; letter-spacing: 2px; font-size: small;">
+                                                   <li class="fw-bold">NAME</li><p>AHMAD TARIQ HIFZHILLAH</p>
+                                                    <li class="fw-bold mt-2 mb-2">PHONE</li><p>087384617842</p>
+                                                    <li class="fw-bold">AGE</li><p> 18 Y.O</p>
+                                                </ul>
+                                                <ul
+                                                    style="list-style-type: none; padding-right: 20px; letter-spacing: 2px; font-size:small">
+                                                    <li class="fw-bold">ADDRESS</li><p>SOUTH JAKARTA</p>
+                                                    <li class="fw-bold mt-2 mb-2">EMAIL</li><p>THORIQHIFZH@GMAIL.COM</p>
+                                                    <li class="fw-bold">FREELANCE</li><p>AVAILABLE</p>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                        </div>
+
+                    </div>
+                    <div class="col-5">
+                        <div data-aos="fade-up-left" data-aos-duration="2000" class="content"
+                            style="margin-top: 290px; margin-left: 400px; ">
+                            <img src="image/123.jfif" alt=""
+                                style="border-radius: 50%; border: 1px solid white; width: 300px; height: 300px; box-shadow: 0 0 15px 3px blueviolet;">
+                        </div>
+
+                    </div>
+                    <div align="center" class="content" style="margin-top: 120px; ">
+                        <img src="image/pslogo.png" alt=""
+                            style="width: 50px; height: 50px;">
+                        <img class="me-5 ms-5" src="image/ailogo.png" alt=""
+                            style="width: 50px; height: 50px;">
+                        <img class="me-5" src="image/pr.png" alt=""
+                            style="width: 50px; height: 50px;">
+                        <img src="image/figma.png" alt=""
+                            style="width: 50px; height: 50px;">
+                        <img class="me-5 ms-5" src="image/html.png" alt=""
+                            style="width: 50px; height: 50px;">
+                        <img class="me-5" src="image/css.png" alt=""
+                            style="width: 35px; height: 40px;">
+                        <img src="image/bootstrap.png" alt=""
+                            style="width: 50px; height: 40px;">
+                    </div>
+                    <div style="margin-top: 100px;">
+                    </div>
+                </div>
+    </section>
+
+    <section class="hero-section" id="section_3">
+        <div style=" background-image: url('image/mnb2.png'); background-size: cover; ">
+            <div class=" section-overlay">
+            </div>
+
+            <div class="d-flex">
+                <div class="row">
+
+                    <div class="col-5" style="margin-top: 200px; margin-left: 90px;">
+                        <div data-aos="fade-right" data-aos-duration="2000" class="content">
+                            <h1 class="card-title fw-bold"
+                                style="background: linear-gradient(to right, white, blue); -webkit-background-clip: text; color: transparent;""> Resume</h1>
+                            <p class=" text-white" style="margin-bottom: 10px;">_______________</p>
+                                <div class="card bg-transparent"
+                                    style="width: auto; border: 1px solid white; backdrop-filter: blur(2px); border-radius: 20px; box-shadow: 0 0 15px 1px blueviolet; margin-top: 90px;">
+                                    <div class="card-body text-white">
+
+                                        <p class="card-text">My name is Ahmad Tariq Hifzhillah, I'm a web developer and
+                                            designer Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugit
+                                            perspiciatis sequi possimus totam voluptatibus reiciendis ipsum explicabo
+                                            doloribus ex rerum iusto voluptates iste recusandae perferendis incidunt,
+                                            vel,
+                                            molestias, sit nam.</p>
+                                        <p>_______________________</p>
+                                        <div class="row">
+                                            <div class="col-sm-11 d-flex justify-content-between">
+                                                <ul class=""
+                                                    style="list-style-type: none; padding: 0; letter-spacing: 2px; font-size: small;">
+                                                    <li>NAME : AHMAD TARIQ HIFZHILLAH</li>
+                                                    <li class=" mt-2 mb-2">PHONE : 087384617842</li>
+                                                    <li>AGE : 18 Y.O</li>
+                                                </ul>
+                                                <ul
+                                                    style="list-style-type: none; padding-right: 20px; letter-spacing: 2px; font-size:small">
+                                                    <li>ADDRESS : SOUTH JAKARTA</li>
+                                                    <li class="mt-2 mb-2">EMAIL : THORIQHIFZH@GMAIL.COM</li>
+                                                    <li>FREELANCE : AVAILABLE</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                        </div>
+
+                    </div>
+                
+                    <div align="center" class="content" style="margin-top: 120px; ">
+                        <img src="image/pslogo.png" alt=""
+                            style="width: 50px; height: 50px;">
+                        <img class="me-5 ms-5" src="image/ailogo.png" alt=""
+                            style="width: 50px; height: 50px;">
+                        <img class="me-5" src="image/pr.png" alt=""
+                            style="width: 50px; height: 50px;">
+                        <img src="image/figma.png" alt=""
+                            style="width: 50px; height: 50px;">
+                        <img class="me-5 ms-5" src="image/html.png" alt=""
+                            style="width: 50px; height: 50px;">
+                        <img class="me-5" src="image/css.png" alt=""
+                            style="width: 35px; height: 40px;">
+                        <img src="image/bootstrap.png" alt=""
+                            style="width: 50px; height: 40px;">
+                    </div>
+                    <div style="margin-top: 100px;">
+                    </div>
+                </div>
+    </section>
+
+     <section class="hero-section" id="section_4">
+        <div style=" background-image: url('image/mnb.png'); background-size: cover; ">
+            <div class=" section-overlay">
+            </div>
+
+            <div class="d-flex">
+                <div class="row">
+
+                    <div class="col-5" style="margin-top: 200px; margin-left: 90px;">
+                        <div data-aos="fade-right" data-aos-duration="2000" class="content">
+                            <h1 class="card-title fw-bold"
+                                style="background: linear-gradient(to right, white, blue); -webkit-background-clip: text; color: transparent;""> Resume</h1>
+                            <p class=" text-white" style="margin-bottom: 10px;">_______________</p>
+                                <div class="card bg-transparent"
+                                    style="width: auto; border: 1px solid white; backdrop-filter: blur(2px); border-radius: 20px; box-shadow: 0 0 15px 1px blueviolet; margin-top: 90px;">
                                     <div class="card-body text-white">
 
                                         <p class="card-text">My name is Ahmad Tariq Hifzhillah, I'm a web developer and
@@ -124,19 +267,24 @@
                     </div>
                     <div align="center" class="content" style="margin-top: 120px; ">
                         <img src="image/pslogo.png" alt=""
-                            style="width: 50px; height: 50px; box-shadow: 0 0 15px 1px blueviolet;">
+                            style="width: 50px; height: 50px;">
                         <img class="me-5 ms-5" src="image/ailogo.png" alt=""
-                            style="width: 50px; height: 50px; box-shadow: 0 0 15px 1px blueviolet;">
-                        <img class="me-5" src="image/pslogo.png" alt=""
-                            style="width: 50px; height: 50px; box-shadow: 0 0 15px 1px blueviolet;">
-                        <img src="image/ailogo.png" alt=""
-                            style="width: 50px; height: 50px; box-shadow: 0 0 15px 1px blueviolet;">
+                            style="width: 50px; height: 50px;">
+                        <img class="me-5" src="image/pr.png" alt=""
+                            style="width: 50px; height: 50px;">
+                        <img src="image/figma.png" alt=""
+                            style="width: 50px; height: 50px;">
+                        <img class="me-5 ms-5" src="image/html.png" alt=""
+                            style="width: 50px; height: 50px;">
+                        <img class="me-5" src="image/css.png" alt=""
+                            style="width: 35px; height: 40px;">
+                        <img src="image/bootstrap.png" alt=""
+                            style="width: 50px; height: 40px;">
                     </div>
                     <div style="margin-top: 100px;">
                     </div>
                 </div>
     </section>
-
 
     <!-- Bootstrap core JavaScript-->
     <script src="vendor/jquery/jquery.min.js"></script>

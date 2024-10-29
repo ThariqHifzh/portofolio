@@ -1,6 +1,6 @@
 <nav style="backdrop-filter: blur(3px);" class="navbar navbar-expand-lg bg-transparent fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="#"><img style="width: 90px; filter: brightness(0) invert(1);" src="image/r.png"
+        <a class="navbar-brand" href="#"><img style="width: 90px;" src="image/123456.png"
                 alt="" srcset=""></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,7 +16,7 @@
                     <a class="nav-link click-scroll text-white" style="font-size: small;" href="#section_2">ABOUT</a>
                 </li>
                 <li class="nav-item me-5">
-                    <a class="nav-link click-scroll text-white" style="font-size: small;" href="#">RESUME</a>
+                    <a class="nav-link click-scroll text-white" style="font-size: small;" href="#section_3">RESUME</a>
                 </li>
                 <li class="nav-item me-5">
                     <a class="nav-link click-scroll text-white" style="font-size: small;" href="#">PORTOFOLIO</a>
