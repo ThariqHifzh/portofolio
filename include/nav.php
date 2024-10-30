@@ -1,7 +1,16 @@
+<?php 
+include 'admin/koneksi.php';
+
+$querySetting = mysqli_query($koneksi, "SELECT * FROM porto_setting ORDER BY id DESC");
+$rowSetting   = mysqli_fetch_assoc($querySetting);
+?>
+
 <nav style="backdrop-filter: blur(3px);" class="navbar navbar-expand-lg bg-transparent fixed-top">
+
     <div class="container">
-        <a class="navbar-brand" href="#"><img style="width: 90px;" src="image/123456.png"
-                alt="" srcset=""></a>
+        <a href="#" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+            <img width="70" src="admin/upload/<?php echo $rowSetting['logo'] ?>" alt="">
+        </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -19,10 +28,11 @@
                     <a class="nav-link click-scroll text-white" style="font-size: small;" href="#section_3">RESUME</a>
                 </li>
                 <li class="nav-item me-5">
-                    <a class="nav-link click-scroll text-white" style="font-size: small;" href="#">PORTOFOLIO</a>
+                    <a class="nav-link click-scroll text-white" style="font-size: small;"
+                        href="#section_4">PORTOFOLIO</a>
                 </li>
                 <li class="nav-item me-5">
-                    <a class="nav-link click-scroll text-white" style="font-size: small;" href="#">CONTACT</a>
+                    <a class="nav-link click-scroll text-white" style="font-size: small;" href="#section_5">CONTACT</a>
                 </li>
             </ul>
             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="white" class="bi bi-search me-4"
